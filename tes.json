@@ -1,13 +1,53 @@
 [{
-"name":"Tv 1",
+"name":"TV 1",
 "link":"https://myklik.rtm.gov.my/channel/tv-1"
 },
 {
-"name":"Tv 2",
-"link":"https://myklik.rtm.gov.my/channel/tv-2"
+"name":"TV 2",
+"link":"https://myklik.rtm.gov.my/channel/tv-1"
 },
- {
-"name":"Tv 3",
+{
+"name":"TV SUKAN",
+"link":"https://myklik.rtm.gov.my/channel/tv-4"
+},
+{
+"name":"TV SUKAN",
+"link":"https://myklik.rtm.gov.my/channel/tv-4"
+},
+{
+"name":"BERITA RTM",
+"link":"https://myklik.rtm.gov.my/channel/tv-5"
+},
+{
+"name":"TV OKEY ",
+"link":"https://myklik.rtm.gov.my/channel/tv-3"
+},
+{
+"name":"TVS",
+"link":"https://selangortv.my/"
+},
+{
+"name":"ASTRO AWANI",
 "link":"http://www.astroawani.com/live-tv"
+},
+{
+"name":"TV 3",
+"link":"https://www.xtra.com.my/live-tv/?fbclid=IwAR0QpgbCST4Or3jGklnQb6bi4qKtFjURAcmnlycf8HxUNzBWEqRVIox-n0A#a"
+},
+{
+"name":"NTV 7",
+"link":"https://www.dailymotion.com/video/kxm1wihUkjNiINrAqlg"
+},
+{
+"name":"8TV",
+"link":"https://www.dailymotion.com/video/kdFzSYy1bHxrForBrar"
+},
+{
+"name":"TV9",
+"link":"https://www.dailymotion.com/video/k2BxlrMjvkOUQHrAGJ0"
+},
+{
+"name":"TVIKIM",
+"link":"https://www.tvikim.my/live.php"
 }
 ]
