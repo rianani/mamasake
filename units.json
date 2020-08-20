@@ -1,36 +1,24 @@
 [
    {
-       "Name":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-       "IconUrl":"https://starstarget.files.wordpress.com/2016/06/icon-for-hire.jpg",
-      "contentTitle":"Starways",
-	   "contentText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+       "Name":"Deck Buildings",
+       "IconUrl":"https://github.com/rianani/mamasake/raw/master/decobuildings.jpg"
    },
    {
-       "Name":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-       "IconUrl":"https://starstarget.files.wordpress.com/2016/06/icon-for-hire.jpg",
-      "contentTitle":"Starways",
-	   "contentText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+       "Name":"Getting Coins",
+       "IconUrl":"https://github.com/rianani/mamasake/raw/master/gettingcoins.jpg"
 
    },
    {
-      "Name":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-       "IconUrl":"https://starstarget.files.wordpress.com/2016/06/icon-for-hire.jpg",
-      "contentTitle":"Starways",
-	   "contentText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "Name":"Highlights and Strategy",
+       "IconUrl":"https://github.com/rianani/mamasake/raw/master/highlights.jpg"
 
    },
    {
-      "Name":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-       "IconUrl":"https://starstarget.files.wordpress.com/2016/06/icon-for-hire.jpg",
-      "contentTitle":"Starways",
-	   "contentText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-
+      "Name":"Chemistry",
+       "IconUrl":"https://github.com/rianani/mamasake/raw/master/chemistry.jpg"
    },
    {
-      "Name":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-       "IconUrl":"https://starstarget.files.wordpress.com/2016/06/icon-for-hire.jpg",
-      "contentTitle":"Starways",
-	   "contentText":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-
+      "Name":"More is More, forget the less",
+       "IconUrl":"https://github.com/rianani/mamasake/raw/master/moreismore.jpg"
    }
 ]
